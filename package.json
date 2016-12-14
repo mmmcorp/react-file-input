@@ -1,5 +1,5 @@
 {
-  "name": "react-file-input",
+  "name": "@mmmcorp/react-file-input",
   "version": "0.2.5",
   "description": "Simple file input component for React",
   "main": "./lib",
